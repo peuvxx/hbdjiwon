@@ -47,5 +47,3 @@ document.querySelector('.letter').addEventListener('click', function () {
     isFront = !isFront; // 상태 변경
   });
   
-
-  
